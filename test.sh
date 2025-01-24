@@ -1,4 +1,5 @@
 # test.sh
 echo "Running tests..."
-python3 -c "print('Test passed!')"
+/usr/bin/python3 -c "print('Test passed!')"
+
 
