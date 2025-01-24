@@ -1,4 +1,6 @@
 # build.sh
 echo "Building the project..."
-python hello.py
+/usr/bin/python3 hello.py
+echo "Running build.sh"
+
 
